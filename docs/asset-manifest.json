@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/interactiveMobile/static/css/main.8605acd3.css",
-    "main.js": "/interactiveMobile/static/js/main.e0418f6c.js",
+    "main.css": "/interactiveMobile/static/css/main.c089da7a.css",
+    "main.js": "/interactiveMobile/static/js/main.913c1000.js",
     "static/media/Poppins-LightItalic.ttf": "/interactiveMobile/static/media/Poppins-LightItalic.5ccd942a8800a68d44b6.ttf",
     "static/media/Poppins-Medium.ttf": "/interactiveMobile/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
     "static/media/Poppins-SemiBold.ttf": "/interactiveMobile/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
     "index.html": "/interactiveMobile/index.html",
-    "main.8605acd3.css.map": "/interactiveMobile/static/css/main.8605acd3.css.map",
-    "main.e0418f6c.js.map": "/interactiveMobile/static/js/main.e0418f6c.js.map"
+    "main.c089da7a.css.map": "/interactiveMobile/static/css/main.c089da7a.css.map",
+    "main.913c1000.js.map": "/interactiveMobile/static/js/main.913c1000.js.map"
   },
   "entrypoints": [
-    "static/css/main.8605acd3.css",
-    "static/js/main.e0418f6c.js"
+    "static/css/main.c089da7a.css",
+    "static/js/main.913c1000.js"
   ]
 }
