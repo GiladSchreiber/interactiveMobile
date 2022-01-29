@@ -1,0 +1,34 @@
+@import "../design/main.scss";
+
+.eventsWrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  position: absolute;
+  width: 60%;
+  height: 20%;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, -50%);
+  font-family: "PoppinsMedium";
+  font-size: 30pt;
+  color: $darkColor;
+  text-align: center;
+}
+
+.eventTitle {
+  position: absolute;
+  white-space: pre-wrap;
+  width: 40%;
+  height: 20%;
+  left: 50%;
+  top: 65%;
+  transform: translate(-50%, -50%);
+  font-family: "PoppinsLightItalic";
+  font-size: 25pt;
+  color: $darkColor;
+  text-align: center;
+}

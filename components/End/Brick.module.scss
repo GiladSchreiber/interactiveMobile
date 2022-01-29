@@ -1,0 +1,9 @@
+@import "../design/main.scss";
+
+.brickWrapper {
+  height: 20px;
+  border: 1px $brightColor solid;
+  background-color: $darkColor;
+  transition: opacity 0.2s ease;
+  z-index: 2;
+}

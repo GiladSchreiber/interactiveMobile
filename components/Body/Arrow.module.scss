@@ -1,0 +1,22 @@
+@import "../design/main.scss";
+
+.arrow {
+  position: fixed;
+  cursor: pointer;
+  z-index: 5;
+  bottom: 30px;
+  width: 30px;
+  height: 80px;
+  filter: brightness(1.2);
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+.stripe {
+  position: absolute;
+  width: 30px;
+  height: 5px;
+  border-radius: 2.5px;
+  background-color: $darkColor;
+  filter: brightness(1.2);
+  -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}

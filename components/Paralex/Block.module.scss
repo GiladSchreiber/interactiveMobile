@@ -1,0 +1,7 @@
+@import "../design/main.scss";
+
+.block {
+  position: absolute;
+  background-color: $brightColor;
+  outline: $markerColor 10px solid;
+}

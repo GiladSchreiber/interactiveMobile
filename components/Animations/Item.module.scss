@@ -1,0 +1,22 @@
+@import "../design/main.scss";
+
+.itemWrapper {
+  position: absolute;
+  height: 40px;
+  width: 80%;
+  left: 10%;
+  background-color: rgba($brightColor, 0.5);
+  filter: brightness(80%);
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.6s ease, width 0.4s ease;
+}
+
+.header {
+  font-family: "PoppinsMedium";
+  font-size: 10pt;
+  color: $darkColor;
+  transition: opacity 0.4s ease;
+}

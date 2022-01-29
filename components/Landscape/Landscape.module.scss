@@ -1,0 +1,20 @@
+@import "../design/main.scss";
+
+.line {
+  fill: transparent;
+  stroke: $darkColor;
+  stroke-width: 4px;
+  stroke-dasharray: 3000;
+}
+
+.wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  background-color: $brightColor;
+  outline: 2px $darkColor solid;
+  z-index: 2;
+  touch-action: none;
+}
